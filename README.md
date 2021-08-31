@@ -10,3 +10,14 @@
   > Guest end
   - Guest can view Theatre layout/ratings/book ticket depending on availability.
   
+- The format of file M1movie.txt is as follows :
+  > First line contains name of the movie
+  > Second line contains price of Gold(ticket) seat.
+  > Third line contains price of Silver(ticket) seat.
+ 
+- The format of file Seatm131.txt is as follows :
+  > 131 stands for Day_MovieNumber_ScreenNumber
+  > each of such file contains pairs of two rows.
+  > Each pair is row number and column number ( a seat ) booked by the user ,in that paritcular day, for particular movie.
+
+- The pw.txt contains password for the admin.
